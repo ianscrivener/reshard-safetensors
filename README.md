@@ -30,13 +30,14 @@ safetensors_manager/
 
     ```bash
     git clone <repository-url>
-    cd scripts
     ```
 
 2. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
+
+    pip install .
     ```
 
 3. Setup:
